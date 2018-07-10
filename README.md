@@ -7,6 +7,6 @@ You will find your notebooks in `notebooks/`. In case you feel it is too complic
 
 
 ## Work
-1. Clean data using your creativity (use `cleaning_data_student_notebook`, the output of your work should be a file similar to `cleaned_data.txt`)
+1. Clean data using your creativity. Use `cleaning_data_student_notebook` and the `data/final_rent_data.txt` (it is the data you get by webscraping), the output of your work should be a file similar to `cleaned_data.txt`.
 2. Webscrap wikipedia (use `webscraping_student_notebook`)
 3. Use google matrix API to calculate the trip duration
